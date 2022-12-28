@@ -7,12 +7,14 @@
   align-items: center;
   text-align: center;
   min-height: 100vh;
+   font-style: oblique;
 }
    </style>
  </head>
  <body>
  <div class="center-screen">
- I'm in the center
+  <h2>Hello Dev Ops Engineers!</h2>
+  <h3>Happy Learning!</h3>
  </div>
  </body>
  </html>
