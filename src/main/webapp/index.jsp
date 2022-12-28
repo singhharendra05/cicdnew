@@ -13,8 +13,9 @@
  </head>
  <body>
  <div class="center-screen">
-  <h2>Hello Dev Ops Engineers! </br><h3>Happy Learning!</h3></h2>
-  
+  <div>
+  <h2>Hello Dev Ops Engineers!</h2><h3>Happy Learning!</h3>
+  </div>
  </div>
  </body>
  </html>
